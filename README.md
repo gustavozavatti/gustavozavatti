@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo Zavatti
 
-<!--
-**gustavozavatti/gustavozavatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** – Universidade Positivo  
+💻 Interessado em desenvolvimento de software  
+🚀 Em busca da primeira oportunidade na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+Sou estudante de Ciência da Computação com foco em desenvolvimento e fundamentos da programação.  
+Tenho base em lógica de programação e linguagem C, e busco constantemente evoluir através de estudos e projetos práticos.
+
+Sou dedicado, curioso e motivado a aprender novas tecnologias, sempre buscando escrever códigos mais organizados e eficientes.
+
+---
+
+## 🎯 Objetivos
+
+- Conquistar uma oportunidade de estágio na área de desenvolvimento  
+- Evoluir tecnicamente e profissionalmente  
+- Participar de projetos que gerem impacto real  
+- Construir uma carreira sólida na área de tecnologia
