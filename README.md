@@ -4,15 +4,11 @@
 💻 Estudando desenvolvimento de software e programação  
 🚀 Em constante aprendizado na área de tecnologia
 
----
-
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavozavatti)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavozavatti_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavozavatti/)
-
----
 
 ## 💻 Tecnologias
 
@@ -23,8 +19,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
@@ -38,8 +32,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 📚 Estudos atuais
 
@@ -56,8 +48,6 @@ Atualmente estou desenvolvendo meus conhecimentos em:
 - Banco de dados
 - Desenvolvimento de software
 
----
-
 ## 🎯 Objetivos
 
 - Aprimorar meus conhecimentos em programação
@@ -66,8 +56,6 @@ Atualmente estou desenvolvendo meus conhecimentos em:
 - Aprofundar meus conhecimentos em algoritmos e estruturas de dados
 - Construir um portfólio de projetos
 - Evoluir profissionalmente na área de tecnologia
-
----
 
 ## 🚀 Em constante aprendizado
 
