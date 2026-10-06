@@ -28,13 +28,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavozavatti&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozavatti&layout=compact&theme=tokyonight&langs_count=8"/>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api?username=gustavozavatti&show_icons=true&theme=tokyonight&hide_border=false"/>
+    </td>
+    <td width="50%">
+      <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozavatti&layout=compact&theme=tokyonight&langs_count=8&hide_border=false"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
